@@ -90,7 +90,7 @@ void blinkCode_S() {
 // The loop() method is called frequently.
 void loop()
 {
-    // blink name E D S O N
+    // blink name
 	blinkCode_E(); // E .
 	blinkCode_D(); // D -..
 	blinkCode_S(); // S ...
